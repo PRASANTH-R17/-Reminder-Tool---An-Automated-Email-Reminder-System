@@ -1,11 +1,11 @@
-#An Automated Email Reminder System
+#An-Automated-Email-Reminder-System
 Overview
 
 This is an automated email reminder system developed using a simple algorithm and Google Workspace tools such as Spreadsheet and AppScript. It can be used to manage Non-Closed (NC) items, project submissions, document submissions, and other applications that require periodic reminders. The tool simplifies the process of sending reminder emails and saves time and effort for the users.
 
 How to Use
 
-To use the tool, please make a copy of the Spreadsheet provided https://docs.google.com/spreadsheets/d/1ZXC8O1AbQhh0zJP8Z4KPwv2krd6qhnc_tE-0TeBhJjE/edit?usp=sharing
+To use the tool, please make a copy of the Spreadsheet provided herehttps://docs.google.com/spreadsheets/d/1ZXC8O1AbQhh0zJP8Z4KPwv2krd6qhnc_tE-0TeBhJjE/edit?usp=sharing
  . Sheet 1 is the main sheet that includes all project or NC details, which can be filled in manually. It includes essential information such as name, email, project name, project description, open date, due date, and a status tick box (complete or not complete). The tool will only send emails for unticked status projects. If a project is complete, the status should be changed to a tick status manually. Sheet 2 provides clear information about each person and their project, highlighting overdue projects with an asterisk symbol.
 
 The tool has several features, including:
