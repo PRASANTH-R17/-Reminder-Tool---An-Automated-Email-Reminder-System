@@ -1,3 +1,5 @@
+#An Automated Email Reminder System
+
 Spreadsheet Link: https://docs.google.com/spreadsheets/d/1ZXC8O1AbQhh0zJP8Z4KPwv2krd6qhnc_tE-0TeBhJjE/edit?usp=sharing
 
 Please make a copy of this spreadsheet for your use.
@@ -10,9 +12,9 @@ Finally, it can be developed using a simple algorithm (to make the process faste
 
 The tool has several features, including:
 
-01. It sends two reminder emails (two days before the due date and on the due date).
-02. It works entirely on automation and can also be used manually by clicking a single button.
-02. Sheet 2 is automatically updated every time, containing up-to-date information on each person, their project, and any outdated projects.
+- It sends two reminder emails (two days before the due date and on the due date).
+- It works entirely on automation and can also be used manually by clicking a single button.
+- Sheet 2 is automatically updated every time, containing up-to-date information on each person, their project, and any outdated projects.
 
 The tool operates using data from two sheets. Sheet 1 (the main sheet) includes all project or NC details, which can be filled in manually. It includes essential information such as name, email, project name, project description, open date, due date, and a status tick box (complete or not complete). The tool will only send emails for unticked status projects. If a project is complete, the status should be changed to a tick status manually. Sheet 2 provides clear information about each person and their project, highlighting overdue projects with an asterisk symbol.
 
