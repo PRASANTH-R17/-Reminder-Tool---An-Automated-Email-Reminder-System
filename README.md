@@ -1,4 +1,4 @@
-An Automated Email Reminder System
+#An Automated Email Reminder System
 Overview
 
 This is an automated email reminder system developed using a simple algorithm and Google Workspace tools such as Spreadsheet and AppScript. It can be used to manage Non-Closed (NC) items, project submissions, document submissions, and other applications that require periodic reminders. The tool simplifies the process of sending reminder emails and saves time and effort for the users.
@@ -10,9 +10,9 @@ To use the tool, please make a copy of the Spreadsheet provided https://docs.goo
 
 The tool has several features, including:
 
-It sends two reminder emails (two days before the due date and on the due date).
-It works entirely on automation and can also be used manually by clicking a single button.
-Sheet 2 is automatically updated every time, containing up-to-date information on each person, their project, and any outdated projects.
+- It sends two reminder emails (two days before the due date and on the due date).
+- It works entirely on automation and can also be used manually by clicking a single button.
+- Sheet 2 is automatically updated every time, containing up-to-date information on each person, their project, and any outdated projects.
 
 The tool can work in two ways: manual and automated. The automated version triggers an email every day at 8 am and updates the list in Sheet 2. A custom menu has been added to the top of the tool to allow for manual use.
 
