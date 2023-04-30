@@ -1,4 +1,3 @@
-#An-Automated-Email-Reminder-System
 
 **Overview**
 
