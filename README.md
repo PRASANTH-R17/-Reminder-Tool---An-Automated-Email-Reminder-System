@@ -21,7 +21,7 @@ The tool can work in two ways: manual and automated. The automated version trigg
 
 **Background**
 
-During my internship at Valeo, I noticed that reminder emails for Non-Closed (NC) items were being sent manually, which was time-consuming and prone to errors. To address this issue, I planned to develop an efficient and user-friendly email reminder tool using a simple algorithm to make the process faster, along with Google Workspace tools such as Spreadsheet and AppScript. Although my colleague initiated the process of automating this task at Valeo, I developed this tool independently and implemented it in my way for my purpose.
+During my internship at Valeo, I noticed that reminder emails for Non-Closed (NC) items were being sent manually, which was time-consuming and prone to errors. To address this issue, I planned to develop an efficient and user-friendly email reminder tool using a simple algorithm to make the process faster, along with Google Workspace tools such as Spreadsheet and AppScript. Although my colleague initiated the process of automating this task at Valeo, I developed this tool independently and implemented it in my way for own purpose.
 
 **Conclusion**
 
